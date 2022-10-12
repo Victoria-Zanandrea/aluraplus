@@ -101,6 +101,7 @@ body {
     display: flex;
     justify-content: center;
     margin: 5em 0;
+    list-style-type: none;
 }
 
 .dispositivos {
@@ -120,12 +121,14 @@ body {
 .rodape{
     text-align: center;
     margin: 5em 3em;
+    
 }
 
 .rodape__lista {
     display: flex;
     justify-content: center;
     margin-top: 1em;
+    list-style-type: none;
 }
 
 .lista__link a {
